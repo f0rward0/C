@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445444537 source:c:\users\hp1\desktop\codeblocks\hwsu.io\sumof3numbers.c
+	<stdio.h>
+	<stdlib.h>
+
